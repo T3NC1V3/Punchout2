@@ -44,7 +44,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _LUT:
-        m_Texture: {fileID: 2800000, guid: 65653afeb7b24524db2b84b269861926, type: 3}
+        m_Texture: {fileID: 2800000, guid: 37e019051fc81fe428832c6d2d5414b4, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _MainTex:
@@ -66,7 +66,7 @@ Material:
     m_Ints: []
     m_Floats:
     - _BumpScale: 1
-    - _Contribution: 0.718
+    - _Contribution: 1
     - _Cutoff: 0.5
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
